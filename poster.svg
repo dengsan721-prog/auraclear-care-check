@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf8f3"/><stop offset="1" stop-color="#eee9df"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#dce6df" stop-opacity=".9"/><stop offset="1" stop-color="#f5f2ec" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="28" flood-color="#173d32" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="1080" height="1440" fill="url(#bg)"/>
+  <circle cx="540" cy="570" r="420" fill="url(#halo)"/>
+  <g fill="none" stroke="#b18a50" opacity=".18"><circle cx="910" cy="160" r="170"/><circle cx="910" cy="160" r="230"/><circle cx="135" cy="1260" r="160"/></g>
+  <g transform="translate(90 74)">
+    <rect width="80" height="80" rx="25" fill="#173d32"/>
+    <text x="40" y="55" text-anchor="middle" fill="#fff" font-size="39" font-weight="700" font-family="Microsoft YaHei, PingFang SC, sans-serif">听</text>
+    <text x="102" y="35" fill="#173d32" font-size="25" font-weight="700" font-family="Microsoft YaHei, PingFang SC, sans-serif">日常聆听自检</text>
+    <text x="102" y="67" fill="#6e6e73" font-size="17" letter-spacing="3" font-family="Arial, sans-serif">CARE CHECK</text>
+  </g>
+  <g text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif">
+    <text x="540" y="355" fill="#173d32" font-size="112" font-weight="760" letter-spacing="18">听见关爱</text>
+    <text x="540" y="462" fill="#1d1d1f" font-size="47" font-weight="650">父母总让你再说一遍？</text>
+    <text x="540" y="530" fill="#6e6e73" font-size="27">用 10 个生活场景</text>
+    <text x="540" y="574" fill="#6e6e73" font-size="27">了解最近父母的日常听力状态</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="335" y="670" width="410" height="510" rx="48" fill="#fffefa"/>
+  </g>
+  <rect x="375" y="710" width="330" height="330" rx="22" fill="#fff"/>
+  <image x="395" y="730" width="290" height="290" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDEgNDEiIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTAgMGg0MXY0MUgweiIvPjxwYXRoIHN0cm9rZT0iIzE3M0QzMiIgZD0iTTQgNC41aDdtMiAwaDJtMSAwaDFtMyAwaDFtMSAwaDRtMSAwaDFtMiAwaDdNNCA1LjVoMW01IDBoMW0yIDBoMm0xIDBoMW0yIDBoNG03IDBoMW01IDBoMU00IDYuNWgxbTEgMGgzbTEgMGgxbTEgMGgxbTMgMGgxbTEgMGgzbTIgMGgxbTEgMGg0bTEgMGgxbTEgMGgzbTEgMGgxTTQgNy41aDFtMSAwaDNtMSAwaDFtMSAwaDFtMSAwaDJtMyAwaDFtMSAwaDFtNCAwaDFtMSAwaDFtMSAwaDFtMSAwaDNtMSAwaDFNNCA4LjVoMW0xIDBoM20xIDBoMW0xIDBoMm0xIDBoMW0yIDBoOG0xIDBoMW0yIDBoMW0xIDBoM20xIDBoMU00IDkuNWgxbTUgMGgxbTEgMGgxbTEgMGg0bTMgMGgxbTIgMGgybTQgMGgxbTUgMGgxTTQgMTAuNWg3bTEgMGgxbTEgMGgxbTEgMGgxbTEgMGgxbTEgMGgxbTEgMGgxbTEgMGgxbTEgMGgxbTEgMGgxbTEgMGg3TTEyIDExLjVoM20xIDBoMW0zIDBoMW0zIDBoM000IDEyLjVoMW0xIDBoNW02IDBoMW0yIDBoMm0yIDBoMW0xIDBoMm0yIDBoNU01IDEzLjVoMW0yIDBoMm0xIDBoM20xIDBoM20yIDBoNm0xIDBoMW0yIDBoMm0xIDBoMm0xIDBoMU01IDE0LjVoMW0yIDBoM20xIDBoMW0yIDBoMW0xIDBoM20xIDBoMm0yIDBoMW02IDBoMW0xIDBoMU00IDE1LjVoMm0xIDBoM20yIDBoMm0xIDBoMW0xIDBoMW0xIDBoMW01IDBoM20xIDBoMm0xIDBoNU01IDE2LjVoMW0zIDBoNW00IDBoMW0xIDBoM20zIDBoMW0xIDBoMm0xIDBoM20xIDBoMk00IDE3LjVoMW0xIDBoMW02IDBoMm0yIDBoMW0xIDBoMW0yIDBoM20xIDBoM20xIDBoMW0yIDBoMW0xIDBoMk02IDE4LjVoMW0xIDBoMW0xIDBoMW0xIDBoNG0xIDBoMW0xIDBoM200IDBoMW0xIDBoM20yIDBoMW0xIDBoMU01IDE5LjVoMW0zIDBoMW03IDBoM201IDBoMW0xIDBoNW0xIDBoMk00IDIwLjVoMW0xIDBoMW0xIDBoM20yIDBoMW00IDBoMm0xIDBoNG0zIDBoMm0xIDBoMm0zIDBoMU01IDIxLjVoMW0zIDBoMW0xIDBoMm0xIDBoMW0xIDBoM20xIDBoOG0yIDBoMm0xIDBoMm0xIDBoMU00IDIyLjVoMm0xIDBoMm0xIDBoMW0yIDBoNG0yIDBoMW0xIDBoMW0yIDBoMW0zIDBoNW0xIDBoMk02IDIzLjVoMm00IDBoMm0yIDBoNW0zIDBoMm0xIDBoMW0zIDBoNU01IDI0LjVoNm0xIDBoMW0yIDBoMW0yIDBoMm0yIDBoMm0yIDBoMm0xIDBoMW0xIDBoM20yIDBoMU00IDI1LjVoMW0xIDBoMW0xIDBoMW00IDBoMW0yIDBoMm0xIDBoN20xIDBoMW0yIDBoMW0zIDBoMW0xIDBoMU00IDI2LjVoMW0zIDBoMW0xIDBoMW0yIDBoNG00IDBoMW0yIDBoMW0xIDBoMW0yIDBoMW0xIDBoNU00IDI3LjVoMW0yIDBoMm03IDBoMW0xIDBoMW0xIDBoMW0xIDBoMm0xIDBoMm0xIDBoMW0yIDBoMW0xIDBoNE00IDI4LjVoMW0xIDBoMW0yIDBoMm02IDBoMW0yIDBoMm02IDBoNm0xIDBoMU0xMiAyOS41aDNtMiAwaDJtMSAwaDRtMSAwaDJtMSAwaDFtMyAwaDFtMSAwaDFtMSAwaDFNNCAzMC41aDdtMyAwaDRtMSAwaDNtMiAwaDVtMSAwaDFtMSAwaDFtMSAwaDJNNCAzMS41aDFtNSAwaDFtMSAwaDVtMiAwaDFtMSAwaDJtMiAwaDRtMyAwaDNtMSAwaDFNNCAzMi41aDFtMSAwaDNtMSAwaDFtMSAwaDRtMiAwaDFtMSAwaDFtNyAwaDZtMSAwaDJNNCAzMy41aDFtMSAwaDNtMSAwaDFtMSAwaDFtMyAwaDFtMSAwaDJtMiAwaDRtMSAwaDNtMiAwaDVNNCAzNC41aDFtMSAwaDNtMSAwaDFtMSAwaDJtMiAwaDZtMiAwaDFtMiAwaDJtMSAwaDJtMSAwaDJNNCAzNS41aDFtNSAwaDFtMyAwaDFtMiAwaDNtNCAwaDJtMyAwaDFtMiAwaDNNNCAzNi41aDdtMSAwaDFtMSAwaDFtMSAwaDFtMSAwaDJtMSAwaDFtMSAwaDJtMiAwaDNtMSAwaDFtMSAwaDFtMSAwaDEiLz48L3N2Zz4K"/>
+  <g text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif">
+    <text x="540" y="1097" fill="#173d32" font-size="35" font-weight="700">扫码开始检测</text>
+    <text x="540" y="1140" fill="#6e6e73" font-size="20">约 3 分钟 · 不采集资料</text>
+  </g>
+  <g transform="translate(150 1255)">
+    <rect width="780" height="82" rx="41" fill="#173d32"/>
+    <text x="390" y="53" text-anchor="middle" fill="#fff" font-size="25" font-weight="650" font-family="Microsoft YaHei, PingFang SC, sans-serif">先看见变化，再温和地陪父母了解</text>
+  </g>
+  <text x="540" y="1390" text-anchor="middle" fill="#89898e" font-size="17" font-family="Microsoft YaHei, PingFang SC, sans-serif">生活场景观察仅供参考，不代替专业听力检查</text>
+</svg>
